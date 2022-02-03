@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![tamagoez’ GitHub stats](https://github-readme-stats.vercel.app/api?username=tamagoez&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamagoez&langs_count=8&layout=compact)](https://github.com/tamagoez/github-readme-stats)
+### Developing these repositories!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=vividarmy-wikinotes&show_owner=true)](https://github.com/tamagoez/vividarmy-wikinotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=online-hub&show_owner=true)](https://github.com/tamagoez/online-hub)
