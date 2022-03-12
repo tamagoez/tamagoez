@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ### Developing these repositories!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=vividarmy-wikinotes&show_owner=true)](https://github.com/tamagoez/vividarmy-wikinotes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=online-hub&show_owner=true)](https://github.com/tamagoez/online-hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=sessions&show_owner=true)](https://github.com/tamagoez/sessions)
