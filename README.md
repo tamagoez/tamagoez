@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [This](https://github.com/stars/tamagoez/lists/now-working) is a list which I listed repositories I'm working for.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=vividarmy-wikinotes&show_owner=true)](https://github.com/tamagoez/vividarmy-wikinotes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=sessions&show_owner=true)](https://github.com/tamagoez/sessions)
+
+[2020 Github Skyline](https://skyline.github.com/tamagoez/2021?annotation0=2021-07-17,2021-07-17,Joined%20GitHub%21&annotation1=2021-07-31,2021-07-31,First%20issue%21&annotation2=2021-07-26,2021-07-26,First%20pull%20request%21)
