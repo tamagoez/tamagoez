@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=vividarmy-wikinotes&show_owner=true)](https://github.com/tamagoez/vividarmy-wikinotes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=sessions&show_owner=true)](https://github.com/tamagoez/sessions)
 
-[2020 Github Skyline](https://skyline.github.com/tamagoez/2021?annotation0=2021-07-17,2021-07-17,Joined%20GitHub%21&annotation1=2021-07-31,2021-07-31,First%20issue%21&annotation2=2021-07-26,2021-07-26,First%20pull%20request%21)
+[2021 GitHub Skyline](https://skyline.github.com/tamagoez/2021?annotation0=2021-07-17,2021-07-17,Joined%20GitHub%21&annotation1=2021-07-31,2021-07-31,First%20issue%21&annotation2=2021-07-26,2021-07-26,First%20pull%20request%21)  
+[2022 GitHub Skyline](https://skyline.github.com/tamagoez/2022?annotation0=2022-02-24,2022-03-14,sessions-react%28Old%20version%20of%20session&annotation1=2022-03-15,2022-03-25,Sessions%20%28new%20version%29%20Still%20in%20progress%21%21)
