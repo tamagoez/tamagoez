@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tamagoez’ GitHub stats](https://github-readme-stats.vercel.app/api?username=tamagoez&show_icons=true&theme=tokyonight)  
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tamagoez)](https://github.com/LordDashMe/github-contribution-stats/)
+![tamagoez’ GitHub stats](https://github-readme-stats.vercel.app/api?username=tamagoez&show_icons=true&theme=tokyonight)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tamagoez)](https://github.com/LordDashMe/github-contribution-stats/)  
 [![Torophy](https://github-profile-trophy.vercel.app/?username=tamagoez&column=7)](https://github-profile-trophy.vercel.app/?username=tamagoez&column=7)
 
 ### Developing these repositories!
