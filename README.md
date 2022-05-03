@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![tamagoez’ GitHub stats](https://github-readme-stats.vercel.app/api?username=tamagoez&show_icons=true&theme=tokyonight)  
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tamagoez)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamagoez&langs_count=8&layout=compact)](https://github.com/tamagoez/github-readme-stats)
+[![Torophy](https://github-profile-trophy.vercel.app/?username=tamagoez&column=7)](https://github-profile-trophy.vercel.app/?username=tamagoez&column=7)
+
 ### Developing these repositories!
 [This](https://github.com/stars/tamagoez/lists/now-working) is a list which I listed repositories I'm working for.  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=vividarmy-wikinotes&show_owner=true)](https://github.com/tamagoez/vividarmy-wikinotes)
