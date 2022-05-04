@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img align="right" width="26%" src="https://count.getloli.com/get/@tamagoez?theme=rule34" />]()
+[<img align="right" width="23%" src="https://count.getloli.com/get/@tamagoez?theme=rule34" />]()
 [<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=tamagoez&show_icons=true&theme=tokyonight" />]()
 [<img width="30%" src="https://github-contribution-stats.vercel.app/api/?username=tamagoez" />](https://github.com/LordDashMe/github-contribution-stats/)  
 [![Torophy](https://github-profile-trophy.vercel.app/?username=tamagoez&column=7)](https://github-profile-trophy.vercel.app/?username=tamagoez&column=7)
