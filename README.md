@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![tamagoez’ GitHub stats](https://github-readme-stats.vercel.app/api?username=tamagoez&show_icons=true&theme=tokyonight)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tamagoez)](https://github.com/LordDashMe/github-contribution-stats/)  
+[<img align="right" src="https://count.getloli.com/get/@tamagoez?theme=rule34" />]()
+[<img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=tamagoez&show_icons=true&theme=tokyonight" />]()
+[<img width="300" src="https://github-contribution-stats.vercel.app/api/?username=tamagoez" />](https://github.com/LordDashMe/github-contribution-stats/)  
 [![Torophy](https://github-profile-trophy.vercel.app/?username=tamagoez&column=7)](https://github-profile-trophy.vercel.app/?username=tamagoez&column=7)
 
 ### Developing these repositories!
 [This](https://github.com/stars/tamagoez/lists/now-working) is a list which I listed repositories I'm working for.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=vividarmy-wikinotes&show_owner=true)](https://github.com/tamagoez/vividarmy-wikinotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=minecraft-ripenote&show_owner=true)](https://github.com/tamagoez/minecraft-ripenote)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamagoez&repo=sessions&show_owner=true)](https://github.com/tamagoez/sessions)
 
 [2021 GitHub Skyline](https://skyline.github.com/tamagoez/2021?annotation0=2021-07-17,2021-07-17,Joined%20GitHub%21&annotation1=2021-07-31,2021-07-31,First%20issue%21&annotation2=2021-07-26,2021-07-26,First%20pull%20request%21)  
